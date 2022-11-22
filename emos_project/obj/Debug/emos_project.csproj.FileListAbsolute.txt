@@ -1,0 +1,888 @@
+c:\users\dell\documents\visual studio 2015\Projects\emos_project\emos_project\bin\Debug\emos_project.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\bin\Debug\emos_project.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\bin\Debug\emos_project.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.exe
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.interview_estate.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.add_estate.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.interface_update.update_customer.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.add_estate.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.interface_update.update_customer.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.interview_estate.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.add_estate.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.interface_update.update_customer.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.interview_estate.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\نسخ\14_4_2019\مجلد جديد\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.add_estate.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_estate.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.add_estate.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_estate.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_estate.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_estate.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\المشروع عملي\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+F:\المشروع عملي\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\نسخ\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\نسخ\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\نسخ\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_3_3\2019_5_3_2\2019_5_3_1\2019_5_2\2019_5_1_3\2019_5_1_2\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+F:\المشروع عملي\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Select_Data.Win_Select_Leases.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Update_Data.Win_Update_lease_build.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_View_Data.Win_view_lease_build.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Add_Data.Win_Add_lease_build.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Add_Data.Win_Add_Lease_Land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Select_Data.Win_Select_Lease_Land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Update_Data.Win_Update_Lease_Land.resources
+F:\المشروع عملي\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_View_Data.Win_View_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Add_Data.Win_Add_lease_build.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Select_Data.Win_Select_Leases.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Update_Data.Win_Update_lease_build.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_View_Data.Win_view_lease_build.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Add_Data.Win_Add_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Select_Data.Win_Select_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Update_Data.Win_Update_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_View_Data.Win_View_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.board_and_area_land.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_selectData.select_units.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_lands.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_unit.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_lands.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.details_of_units.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Add_Data.Win_Add_lease_build.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Select_Data.Win_Select_Leases.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Update_Data.Win_Update_lease_build.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_View_Data.Win_view_lease_build.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Add_Data.Win_Add_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Select_Data.Win_Select_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Update_Data.Win_Update_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_View_Data.Win_View_Lease_Land.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.frm_login.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Add_Data.Win_Add_lease_build.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Select_Data.Win_Select_Leases.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Update_Data.Win_Update_lease_build.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_View_Data.Win_view_lease_build.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Add_Data.Win_Add_Lease_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Select_Data.Win_Select_Lease_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Update_Data.Win_Update_Lease_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_View_Data.Win_View_Lease_Land.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_login.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_acount_control.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_selectData.frm_select_user_account.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.backup.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.RESTORE.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.Win_Report_All.resources
+F:\المشروع عملي\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.report_customer.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe.config
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.exe
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.pdb
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.pdb
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\mscorlib.dll
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.dll
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\System.Net.Http.xml
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\ar\mscorlib.resources.dll
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normidna.nlp
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfc.nlp
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfd.nlp
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkc.nlp
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\normnfkd.nlp
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csprojResolveAssemblyReference.cache
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.backup.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_login.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.RESTORE.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Add_Data.Win_Add_lease_build.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Select_Data.Win_Select_Leases.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Update_Data.Win_Update_lease_build.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_View_Data.Win_view_lease_build.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Add_Data.Win_Add_Lease_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Select_Data.Win_Select_Lease_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Update_Data.Win_Update_Lease_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_View_Data.Win_View_Lease_Land.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.report_customer.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.Win_Report_All.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_selectData.frm_select_user_account.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_acount_control.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+F:\نسخ\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.Cache
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe.config
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.pdb
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csprojAssemblyReference.cache
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.backup.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_login.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.RESTORE.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Add_Data.Win_Add_lease_build.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Select_Data.Win_Select_Leases.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Update_Data.Win_Update_lease_build.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_View_Data.Win_view_lease_build.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Add_Data.Win_Add_Lease_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Select_Data.Win_Select_Lease_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Update_Data.Win_Update_Lease_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_View_Data.Win_View_Lease_Land.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.report_customer.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.Win_Report_All.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_selectData.frm_select_user_account.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_acount_control.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.cache
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.CoreCompileInputs.cache
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.CopyComplete
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.exe
+M:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.pdb
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe.config
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csprojAssemblyReference.cache
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.backup.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_login.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.RESTORE.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Add_Data.Win_Add_lease_build.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Select_Data.Win_Select_Leases.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Update_Data.Win_Update_lease_build.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_View_Data.Win_view_lease_build.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Add_Data.Win_Add_Lease_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Select_Data.Win_Select_Lease_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Update_Data.Win_Update_Lease_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_View_Data.Win_View_Lease_Land.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.report_customer.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.Win_Report_All.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_selectData.frm_select_user_account.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_acount_control.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.cache
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.CoreCompileInputs.cache
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.CopyComplete
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.exe
+N:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.pdb
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe.config
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.exe
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\bin\Debug\emos_project.pdb
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csprojAssemblyReference.cache
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.backup.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_login.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.form_main.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.bin.RESTORE.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Rent.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Build_Unit.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_request_enclosures.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_addData.Add_Request_Resident.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.main_select_request_all.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_selectData.Select_Building.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Rent.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_updateData.Update_Build_Request_Resident.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.view_enclosures.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.BuildingInterface.Interface_viewData.interview_build.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Board_Area_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Buying_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_Enclosures_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Add_Data.Win_Add_Request_selling_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Select_Data.Win_Select_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Buying.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_Update_Data.Win_Update_Request_Sell.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.win_view_image.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Land_Interface.Interface_View_Data.Win_View_Lands.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Add_Data.Win_Add_lease_build.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Select_Data.Win_Select_Leases.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_Update_Data.Win_Update_lease_build.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Lease.Interface_View_Data.Win_view_lease_build.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Add_Data.Win_Add_Lease_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Select_Data.Win_Select_Lease_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_Update_Data.Win_Update_Lease_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.lease_land.Interface_View_Data.Win_View_Lease_Land.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.report_customer.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.Reporting.Win_Report_All.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.add_customer.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_partner.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_control.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_addData.add_user_employee.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_selectData.frm_select_user_account.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.add_partner_update.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.interview_view_partner.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_customer.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_account_emp.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_update.update_user_acount_control.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.PL.userinterface.interface_view.interview_partner_image.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.select_cust.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interview_cust.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.interface_view.menu_prime.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.Properties.Resources.resources
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.GenerateResource.cache
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.CoreCompileInputs.cache
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.csproj.CopyComplete
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.exe
+H:\مشاريع\مشاريع منظمة\c#\قيد العمل\اخر نسخة للمشروع\2019_5_12_2\2019_5_10_2\2019_5_9_2\2019_5_9_1\2019_5_5_3\emos_project\emos_project\obj\Debug\emos_project.pdb

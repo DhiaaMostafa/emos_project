@@ -1,0 +1,923 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{90458A8F-0396-4DAE-8134-0E26D7DB124C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>emos_project</RootNamespace>
+    <AssemblyName>emos_project</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>G:\Drive\سلاسل تعليمية\سلاسل تعليمية\تحسين مكاتب C#\Bunifu UI Framework\Bunifu UI_v1.5.3 Crack\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bin\backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bin\backup.Designer.cs">
+      <DependentUpon>backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bin\form_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bin\form_login.Designer.cs">
+      <DependentUpon>form_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bin\form_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bin\form_main.Designer.cs">
+      <DependentUpon>form_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bin\RESTORE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bin\RESTORE.Designer.cs">
+      <DependentUpon>RESTORE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\cls_building\cls_buildings.cs" />
+    <Compile Include="BL\cls_building\cls_unit.cs" />
+    <Compile Include="BL\cls_customer\cls_counter.cs" />
+    <Compile Include="BL\cls_customer\cls_customer.cs" />
+    <Compile Include="BL\cls_customer\cls_customer_type.cs" />
+    <Compile Include="BL\cls_customer\cls_login.cs" />
+    <Compile Include="BL\cls_customer\cls_partner.cs" />
+    <Compile Include="BL\cls_customer\cls_user_account.cs" />
+    <Compile Include="BL\cls_land\cls_board_area.cs" />
+    <Compile Include="BL\cls_land\cls_land.cs" />
+    <Compile Include="BL\cls_lease_build\cls_lease_build.cs" />
+    <Compile Include="BL\cls_lease_land\cls_lease_land.cs" />
+    <Compile Include="BL\cls_reporting\cls_report.cs" />
+    <Compile Include="DAL\DataAccessLayers.cs" />
+    <Compile Include="PL\BuildingInterface\Interface_addData\Add_Request_Rent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_addData\Add_Request_Rent.Designer.cs">
+      <DependentUpon>Add_Request_Rent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_addData\Add_Build_Unit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_addData\Add_Build_Unit.Designer.cs">
+      <DependentUpon>Add_Build_Unit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_addData\Add_request_enclosures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_addData\Add_request_enclosures.Designer.cs">
+      <DependentUpon>Add_request_enclosures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_addData\Add_Request_Resident.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_addData\Add_Request_Resident.Designer.cs">
+      <DependentUpon>Add_Request_Resident.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_selectData\main_select_request_all.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_selectData\main_select_request_all.Designer.cs">
+      <DependentUpon>main_select_request_all.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_selectData\Select_Building.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_selectData\Select_Building.Designer.cs">
+      <DependentUpon>Select_Building.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_updateData\Update_Build_Request_Rent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_updateData\Update_Build_Request_Rent.Designer.cs">
+      <DependentUpon>Update_Build_Request_Rent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_updateData\‘Update_Build_Request_Resident.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_updateData\‘Update_Build_Request_Resident.Designer.cs">
+      <DependentUpon>‘Update_Build_Request_Resident.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_viewData\view_enclosures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_viewData\view_enclosures.Designer.cs">
+      <DependentUpon>view_enclosures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_viewData\interview_build.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BuildingInterface\Interface_viewData\interview_build.Designer.cs">
+      <DependentUpon>interview_build.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Board_Area_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Board_Area_Land.Designer.cs">
+      <DependentUpon>Win_Add_Board_Area_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_Buying_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_Buying_Land.Designer.cs">
+      <DependentUpon>Win_Add_Request_Buying_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_Enclosures_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_Enclosures_Land.Designer.cs">
+      <DependentUpon>Win_Add_Request_Enclosures_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_selling_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_selling_Land.Designer.cs">
+      <DependentUpon>Win_Add_Request_selling_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Select_Data\Win_Select_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Select_Data\Win_Select_Land.Designer.cs">
+      <DependentUpon>Win_Select_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Update_Data\Win_Update_Request_Buying.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Update_Data\Win_Update_Request_Buying.Designer.cs">
+      <DependentUpon>Win_Update_Request_Buying.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Update_Data\Win_Update_Request_Sell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_Update_Data\Win_Update_Request_Sell.Designer.cs">
+      <DependentUpon>Win_Update_Request_Sell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_View_Data\win_view_image.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_View_Data\win_view_image.Designer.cs">
+      <DependentUpon>win_view_image.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_View_Data\Win_View_Lands.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Land_Interface\Interface_View_Data\Win_View_Lands.Designer.cs">
+      <DependentUpon>Win_View_Lands.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Lease\Interface_Add_Data\Win_Add_lease_build.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Lease\Interface_Add_Data\Win_Add_lease_build.Designer.cs">
+      <DependentUpon>Win_Add_lease_build.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Lease\Interface_Select_Data\Win_Select_Leases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Lease\Interface_Select_Data\Win_Select_Leases.Designer.cs">
+      <DependentUpon>Win_Select_Leases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Lease\Interface_Update_Data\Win_Update_lease_build.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Lease\Interface_Update_Data\Win_Update_lease_build.Designer.cs">
+      <DependentUpon>Win_Update_lease_build.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Lease\Interface_View_Data\Win_view_lease_build.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Lease\Interface_View_Data\Win_view_lease_build.Designer.cs">
+      <DependentUpon>Win_view_lease_build.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\lease_land\Interface_Add_Data\Win_Add_Lease_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\lease_land\Interface_Add_Data\Win_Add_Lease_Land.Designer.cs">
+      <DependentUpon>Win_Add_Lease_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\lease_land\Interface_Select_Data\Win_Select_Lease_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\lease_land\Interface_Select_Data\Win_Select_Lease_Land.Designer.cs">
+      <DependentUpon>Win_Select_Lease_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\lease_land\Interface_Update_Data\Win_Update_Lease_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\lease_land\Interface_Update_Data\Win_Update_Lease_Land.Designer.cs">
+      <DependentUpon>Win_Update_Lease_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\lease_land\Interface_View_Data\Win_View_Lease_Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\lease_land\Interface_View_Data\Win_View_Lease_Land.Designer.cs">
+      <DependentUpon>Win_View_Lease_Land.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Reporting\report_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Reporting\report_customer.Designer.cs">
+      <DependentUpon>report_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Reporting\Win_Report_All.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Reporting\Win_Report_All.Designer.cs">
+      <DependentUpon>Win_Report_All.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\circular_button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\circular_panel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\circular_picturebox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_addData\add customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_addData\add customer.Designer.cs">
+      <DependentUpon>add customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_addData\add_partner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_addData\add_partner.Designer.cs">
+      <DependentUpon>add_partner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_addData\add_user_control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_addData\add_user_control.Designer.cs">
+      <DependentUpon>add_user_control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_addData\add_user_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_addData\add_user_employee.Designer.cs">
+      <DependentUpon>add_user_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_selectData\frm_select_user_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_selectData\frm_select_user_account.Designer.cs">
+      <DependentUpon>frm_select_user_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\add_partner_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\add_partner_update.Designer.cs">
+      <DependentUpon>add_partner_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\interview_view_partner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\interview_view_partner.Designer.cs">
+      <DependentUpon>interview_view_partner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\update_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\update_customer.Designer.cs">
+      <DependentUpon>update_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\update_user_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\update_user_account.Designer.cs">
+      <DependentUpon>update_user_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\update_user_account_emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\update_user_account_emp.Designer.cs">
+      <DependentUpon>update_user_account_emp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\update_user_acount_control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_update\update_user_acount_control.Designer.cs">
+      <DependentUpon>update_user_acount_control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_view\interview_partner_image.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_view\interview_partner_image.Designer.cs">
+      <DependentUpon>interview_partner_image.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_selectData\select_cust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_selectData\select_cust.Designer.cs">
+      <DependentUpon>select_cust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_view\interview_cust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_view\interview_cust.Designer.cs">
+      <DependentUpon>interview_cust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_view\menu_prime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\userinterface\interface_view\menu_prime.Designer.cs">
+      <DependentUpon>menu_prime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="bin\backup.resx">
+      <DependentUpon>backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\form_login.resx">
+      <DependentUpon>form_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\form_main.resx">
+      <DependentUpon>form_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\RESTORE.resx">
+      <DependentUpon>RESTORE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_addData\Add_Request_Rent.resx">
+      <DependentUpon>Add_Request_Rent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_addData\Add_Build_Unit.resx">
+      <DependentUpon>Add_Build_Unit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_addData\Add_request_enclosures.resx">
+      <DependentUpon>Add_request_enclosures.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_addData\Add_Request_Resident.resx">
+      <DependentUpon>Add_Request_Resident.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_selectData\main_select_request_all.resx">
+      <DependentUpon>main_select_request_all.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_selectData\Select_Building.resx">
+      <DependentUpon>Select_Building.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_updateData\Update_Build_Request_Rent.resx">
+      <DependentUpon>Update_Build_Request_Rent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_updateData\‘Update_Build_Request_Resident.resx">
+      <DependentUpon>‘Update_Build_Request_Resident.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_viewData\view_enclosures.resx">
+      <DependentUpon>view_enclosures.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BuildingInterface\Interface_viewData\interview_build.resx">
+      <DependentUpon>interview_build.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Board_Area_Land.resx">
+      <DependentUpon>Win_Add_Board_Area_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_Buying_Land.resx">
+      <DependentUpon>Win_Add_Request_Buying_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_Enclosures_Land.resx">
+      <DependentUpon>Win_Add_Request_Enclosures_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_Add_Data\Win_Add_Request_selling_Land.resx">
+      <DependentUpon>Win_Add_Request_selling_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_Select_Data\Win_Select_Land.resx">
+      <DependentUpon>Win_Select_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_Update_Data\Win_Update_Request_Buying.resx">
+      <DependentUpon>Win_Update_Request_Buying.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_Update_Data\Win_Update_Request_Sell.resx">
+      <DependentUpon>Win_Update_Request_Sell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_View_Data\win_view_image.resx">
+      <DependentUpon>win_view_image.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Land_Interface\Interface_View_Data\Win_View_Lands.resx">
+      <DependentUpon>Win_View_Lands.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Lease\Interface_Add_Data\Win_Add_lease_build.resx">
+      <DependentUpon>Win_Add_lease_build.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Lease\Interface_Select_Data\Win_Select_Leases.resx">
+      <DependentUpon>Win_Select_Leases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Lease\Interface_Update_Data\Win_Update_lease_build.resx">
+      <DependentUpon>Win_Update_lease_build.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Lease\Interface_View_Data\Win_view_lease_build.resx">
+      <DependentUpon>Win_view_lease_build.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\lease_land\Interface_Add_Data\Win_Add_Lease_Land.resx">
+      <DependentUpon>Win_Add_Lease_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\lease_land\Interface_Select_Data\Win_Select_Lease_Land.resx">
+      <DependentUpon>Win_Select_Lease_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\lease_land\Interface_Update_Data\Win_Update_Lease_Land.resx">
+      <DependentUpon>Win_Update_Lease_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\lease_land\Interface_View_Data\Win_View_Lease_Land.resx">
+      <DependentUpon>Win_View_Lease_Land.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Reporting\report_customer.resx">
+      <DependentUpon>report_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Reporting\Win_Report_All.resx">
+      <DependentUpon>Win_Report_All.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_addData\add customer.resx">
+      <DependentUpon>add customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_addData\add_partner.resx">
+      <DependentUpon>add_partner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_addData\add_user_control.resx">
+      <DependentUpon>add_user_control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_addData\add_user_employee.resx">
+      <DependentUpon>add_user_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_selectData\frm_select_user_account.resx">
+      <DependentUpon>frm_select_user_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_update\add_partner_update.resx">
+      <DependentUpon>add_partner_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_update\interview_view_partner.resx">
+      <DependentUpon>interview_view_partner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_update\update_customer.resx">
+      <DependentUpon>update_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_update\update_user_account.resx">
+      <DependentUpon>update_user_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_update\update_user_account_emp.resx">
+      <DependentUpon>update_user_account_emp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_update\update_user_acount_control.resx">
+      <DependentUpon>update_user_acount_control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_view\interview_partner_image.resx">
+      <DependentUpon>interview_partner_image.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_selectData\select_cust.resx">
+      <DependentUpon>select_cust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_view\interview_cust.resx">
+      <DependentUpon>interview_cust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\userinterface\interface_view\menu_prime.resx">
+      <DependentUpon>menu_prime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Department_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Home_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\News_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\US Dollar_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\US Dollar_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Notification_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Edit Pie Chart Report_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Menu_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Chevron Left_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Home_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Customer_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Plus_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Plus Math_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Customer_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Customer_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\User_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Add Image_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Conference_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Male User_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\User Groups_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Save_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Undo_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Close Window_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Pencil_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Info_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Report Card_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Marker_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Wi-Fi_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Delete_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Services_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Male User_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Search_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Plus_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Plus_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Box Important_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Low Priority_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Area Chart_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Real Estate_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Type_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Name_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Speaker Notes_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Demand_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Class_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Connection Status On_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Area Chart_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Money Bag_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\City_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Environmental Planning_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Square_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Streets_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Real Estate_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Area Chart_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Area Chart_50pxd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\List_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Add New_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Show Property_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Field_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\ING_19047_00263.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Field_50pxj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Field_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Skyscrapers_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Department_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Business Building_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Lease_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Caretaker_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Person at Home_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Employee_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Male User_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Menu_50pxs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\التمويل-العقاري.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Multiply_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Customer_50pxd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Customer_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Real Estate_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\News_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\US Dollar_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Notification_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Edit Pie Chart Report_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\More_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1543181209054.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Ellipse_44px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Business Building_74pxh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\التمويل-العقاري.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Delete_50pxa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Real Estate_50pxc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Property_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Add User Group Man Man_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Shutdown_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Add User Male_50pxee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Edit Account_50pxee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Waste_50pxee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Home_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\aaReal Estate_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\aaNews_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\eeNotification_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\US Dollar_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\aaEdit Pie Chart Report_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\More_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Edit_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Delete User Male_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\View Details_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Add_35px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Male User_45px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Window_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_100px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Money Bag_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Cash in Hand_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Date From_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\image\Clock_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Window_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Land Sales_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Land Sales_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Land Sales_40px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Land Sales_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paper_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paper_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paper_50px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paper_50px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Department_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Department_40px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PL\Reporting\rpt_print\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
